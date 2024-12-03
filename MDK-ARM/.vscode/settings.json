@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "u_astrasonic.h": "c",
+        "u_altrasonic.h": "c",
+        "mpu6050.h": "c",
+        "cstring": "c",
+        "u_console.h": "c",
+        "stdlib.h": "c",
+        "u_oled.h": "c",
+        "oledfont.h": "c",
+        "stdint.h": "c"
+    }
+}
